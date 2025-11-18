@@ -4,6 +4,8 @@
 
 This is a Candy Crush match-3 puzzle game with authentication and leaderboard features.
 
+Website: https://app-7mflxrufu2o1.appmedo.com
+
 ### Features
 - 🎮 Classic match-3 gameplay with special candies
 - 🔐 Google SSO authentication
@@ -102,4 +104,6 @@ Configure environment variables and install relevant dependencies.If you need to
 
 ## Learn More
 
-You can also check the help documentation: Download and Building the app（ [https://intl.cloud.baidu.com/en/doc/MIAODA/s/download-and-building-the-app-en](https://intl.cloud.baidu.com/en/doc/MIAODA/s/download-and-building-the-app-en)）to learn more detailed content.
+You can also check the help documentation: Download and Building the app（ https://intl.cloud.baidu.com/en/doc/MIAODA/s/download-and-building-the-app-en ）to learn more detailed content.
+
+Live demo / hosted site: https://app-7mflxrufu2o1.appmedo.com
