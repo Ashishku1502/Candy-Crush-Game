@@ -6,6 +6,8 @@ This is a Candy Crush match-3 puzzle game with authentication and leaderboard fe
 
 Website: https://app-7mflxrufu2o1.appmedo.com
 
+Status: Working properly — the live demo is accessible at the link above and provides useful information.
+
 ### Features
 - 🎮 Classic match-3 gameplay with special candies
 - 🔐 Google SSO authentication
@@ -100,10 +102,10 @@ Alternatively, use the official installer: Visit the Node.js official website. D
 
 ### How to develop backend services?
 
-Configure environment variables and install relevant dependencies.If you need to use a database, please use the official version of Supabase.
+Configure environment variables and install relevant dependencies. If you need to use a database, please use the official version of Supabase.
 
 ## Learn More
 
 You can also check the help documentation: Download and Building the app（ https://intl.cloud.baidu.com/en/doc/MIAODA/s/download-and-building-the-app-en ）to learn more detailed content.
 
-Live demo / hosted site: https://app-7mflxrufu2o1.appmedo.com
+Live demo / hosted site (working properly): https://app-7mflxrufu2o1.appmedo.com
